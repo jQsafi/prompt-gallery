@@ -1,0 +1,39 @@
+[
+  {
+    "id": "rest-api-test-project",
+    "title": "REST API Test Project Boilerplate",
+    "category": "coding",
+    "tags": [
+      "rest",
+      "api",
+      "testing",
+      "boilerplate"
+    ],
+    "model_compatibility": [
+      "GPT-4",
+      "Claude-3.5"
+    ],
+    "version": "1.0.0",
+    "last_updated": "2024-03-14",
+    "usage_count": 5,
+    "slug": "rest-api-test-project"
+  },
+  {
+    "id": "unit-test-gen",
+    "title": "AI Unit Test Generator",
+    "category": "coding",
+    "tags": [
+      "testing",
+      "jest",
+      "quality"
+    ],
+    "model_compatibility": [
+      "GPT-4",
+      "Claude-3.5"
+    ],
+    "version": "1.2.0",
+    "last_updated": "2024-03-14",
+    "usage_count": 128,
+    "slug": "unit-test-gen"
+  }
+]
