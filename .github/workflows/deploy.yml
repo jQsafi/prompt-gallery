@@ -1,9 +1,12 @@
-name: Deploy to GitHub Pages
+name: Build and Deploy to GitHub Pages
 
 on:
   push:
     branches:
       - main
+
+permissions:
+  contents: write # Crucial for pushing to gh-pages
 
 jobs:
   build-and-deploy:
@@ -15,10 +18,14 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 20
+          node-version: 20 # Ensure Node.js version is compatible with Vite/dependencies
 
       - name: Install Dependencies
         run: npm install
+
+      - name: Generate Prompt Index
+        run: node scripts/generate-index.js
+        working-directory: ./ # Run from root to find scripts/generate-index.js
 
       - name: Build Project
         run: npm run build
@@ -28,3 +35,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+          # The user's name and email for the deploy commit.
+          # If not set, it uses "github-actions[bot]".
+          # user_name: 'github-actions[bot]'
+          # user_email: 'github-actions[bot]@users.noreply.github.com'
