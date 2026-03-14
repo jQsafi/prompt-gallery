@@ -1,0 +1,279 @@
+[
+  {
+    "id": "ai-black-white-classic",
+    "title": "AI Classic Black & White Conversion",
+    "description": "Convert a color photo to a classic black and white image with rich tones, deep blacks, and balanced highlights, emphasizing form and contrast.",
+    "category": "AI Photo Editing",
+    "tags": [
+      "black and white",
+      "monochrome",
+      "classic",
+      "contrast",
+      "AI"
+    ],
+    "model_compatibility": [
+      "Midjourney",
+      "DALL-E",
+      "Stable Diffusion"
+    ],
+    "version": "1.0.0",
+    "last_updated": "2024-03-14",
+    "usage_count": 0,
+    "slug": "ai-black-white-classic"
+  },
+  {
+    "id": "ai-color-splash",
+    "title": "AI Color Splash Effect",
+    "description": "Convert a photo to black and white, but retain or selectively introduce a single vibrant color for a dramatic and artistic 'color splash' effect.",
+    "category": "AI Photo Editing",
+    "tags": [
+      "color splash",
+      "monochrome",
+      "selective color",
+      "artistic",
+      "AI"
+    ],
+    "model_compatibility": [
+      "Midjourney",
+      "DALL-E",
+      "Stable Diffusion"
+    ],
+    "version": "1.0.0",
+    "last_updated": "2024-03-14",
+    "usage_count": 0,
+    "slug": "ai-color-splash"
+  },
+  {
+    "id": "ai-dreamy-bokeh",
+    "title": "AI Dreamy Bokeh Effect",
+    "description": "Add a soft, dreamy bokeh background blur to a subject in focus, simulating a wide-aperture lens for artistic effect.",
+    "category": "AI Photo Editing",
+    "tags": [
+      "bokeh",
+      "dreamy",
+      "portrait",
+      "background blur",
+      "AI"
+    ],
+    "model_compatibility": [
+      "Midjourney",
+      "DALL-E",
+      "Stable Diffusion"
+    ],
+    "version": "1.0.0",
+    "last_updated": "2024-03-14",
+    "usage_count": 0,
+    "slug": "ai-dreamy-bokeh"
+  },
+  {
+    "id": "ai-enhance-portrait",
+    "title": "AI Portrait Enhancement",
+    "description": "Enhance a portrait photo by subtly improving skin texture, brightening eyes, and softening harsh shadows for a natural, professional look.",
+    "category": "AI Photo Editing",
+    "tags": [
+      "portrait",
+      "enhancement",
+      "AI",
+      "retouch"
+    ],
+    "model_compatibility": [
+      "Midjourney",
+      "DALL-E",
+      "Stable Diffusion"
+    ],
+    "version": "1.0.0",
+    "last_updated": "2024-03-14",
+    "usage_count": 0,
+    "slug": "ai-enhance-portrait"
+  },
+  {
+    "id": "ai-golden-hour-recreate",
+    "title": "AI Golden Hour Recreation",
+    "description": "Transform a photo taken in any light into the warm, soft, and magical glow of golden hour, with elongated shadows and warm color cast.",
+    "category": "AI Photo Editing",
+    "tags": [
+      "golden hour",
+      "warmth",
+      "light",
+      "magical",
+      "AI"
+    ],
+    "model_compatibility": [
+      "Midjourney",
+      "DALL-E",
+      "Stable Diffusion"
+    ],
+    "version": "1.0.0",
+    "last_updated": "2024-03-14",
+    "usage_count": 0,
+    "slug": "ai-golden-hour-recreate"
+  },
+  {
+    "id": "ai-hdr-landscape",
+    "title": "AI HDR Landscape Effect",
+    "description": "Process a landscape photo to achieve a High Dynamic Range (HDR) look, bringing out details in both highlights and shadows without appearing unnatural.",
+    "category": "AI Photo Editing",
+    "tags": [
+      "landscape",
+      "HDR",
+      "details",
+      "AI"
+    ],
+    "model_compatibility": [
+      "Midjourney",
+      "DALL-E",
+      "Stable Diffusion"
+    ],
+    "version": "1.0.0",
+    "last_updated": "2024-03-14",
+    "usage_count": 0,
+    "slug": "ai-hdr-landscape"
+  },
+  {
+    "id": "ai-moody-food",
+    "title": "AI Moody Food Photography",
+    "description": "Apply a moody, dark, and dramatic aesthetic to a food photograph, emphasizing textures and inviting warmth with selective lighting.",
+    "category": "AI Photo Editing",
+    "tags": [
+      "food",
+      "moody",
+      "dark",
+      "photography",
+      "AI"
+    ],
+    "model_compatibility": [
+      "Midjourney",
+      "DALL-E",
+      "Stable Diffusion"
+    ],
+    "version": "1.0.0",
+    "last_updated": "2024-03-14",
+    "usage_count": 0,
+    "slug": "ai-moody-food"
+  },
+  {
+    "id": "ai-remove-distractions",
+    "title": "AI Distraction Removal",
+    "description": "Intelligently identify and remove distracting elements (e.g., power lines, litter, unwanted people) from a photo, seamlessly filling the gaps.",
+    "category": "AI Photo Editing",
+    "tags": [
+      "clean-up",
+      "removal",
+      "AI"
+    ],
+    "model_compatibility": [
+      "Midjourney",
+      "DALL-E",
+      "Stable Diffusion"
+    ],
+    "version": "1.0.0",
+    "last_updated": "2024-03-14",
+    "usage_count": 0,
+    "slug": "ai-remove-distractions"
+  },
+  {
+    "id": "ai-sky-replacement",
+    "title": "AI Sky Replacement",
+    "description": "Replace the sky in a landscape or outdoor photo with a more dramatic or appropriate sky (e.g., stormy, sunset, starry night), adjusting lighting and reflections accordingly.",
+    "category": "AI Photo Editing",
+    "tags": [
+      "sky",
+      "landscape",
+      "mood",
+      "AI"
+    ],
+    "model_compatibility": [
+      "Midjourney",
+      "DALL-E",
+      "Stable Diffusion"
+    ],
+    "version": "1.0.0",
+    "last_updated": "2024-03-14",
+    "usage_count": 0,
+    "slug": "ai-sky-replacement"
+  },
+  {
+    "id": "ai-urban-cinematic",
+    "title": "AI Urban Cinematic Look",
+    "description": "Transform an urban photo into a dramatic, cinematic scene with deep shadows, desaturated colors, and selective light accents.",
+    "category": "AI Photo Editing",
+    "tags": [
+      "urban",
+      "cinematic",
+      "moody",
+      "color grading",
+      "AI"
+    ],
+    "model_compatibility": [
+      "Midjourney",
+      "DALL-E",
+      "Stable Diffusion"
+    ],
+    "version": "1.0.0",
+    "last_updated": "2024-03-14",
+    "usage_count": 0,
+    "slug": "ai-urban-cinematic"
+  },
+  {
+    "id": "ai-vintage-film",
+    "title": "AI Vintage Film Effect",
+    "description": "Apply a classic vintage film aesthetic to a photo, characterized by soft contrast, subtle grain, and muted color tones reminiscent of analog photography.",
+    "category": "AI Photo Editing",
+    "tags": [
+      "vintage",
+      "film",
+      "retro",
+      "grain",
+      "color grading",
+      "AI"
+    ],
+    "model_compatibility": [
+      "Midjourney",
+      "DALL-E",
+      "Stable Diffusion"
+    ],
+    "version": "1.0.0",
+    "last_updated": "2024-03-14",
+    "usage_count": 0,
+    "slug": "ai-vintage-film"
+  },
+  {
+    "id": "rest-api-test-project",
+    "title": "REST API Test Project Boilerplate",
+    "description": "Generate a full Node.js project for testing a REST API with Jest and Supertest.",
+    "category": "coding",
+    "tags": [
+      "rest",
+      "api",
+      "testing",
+      "boilerplate"
+    ],
+    "model_compatibility": [
+      "GPT-4",
+      "Claude-3.5"
+    ],
+    "version": "1.0.0",
+    "last_updated": "2024-03-14",
+    "usage_count": 5,
+    "slug": "rest-api-test-project"
+  },
+  {
+    "id": "unit-test-gen",
+    "title": "AI Unit Test Generator",
+    "description": "Create high-quality Jest unit tests for any JavaScript or TypeScript code snippet.",
+    "category": "coding",
+    "tags": [
+      "testing",
+      "jest",
+      "quality"
+    ],
+    "model_compatibility": [
+      "GPT-4",
+      "Claude-3.5"
+    ],
+    "version": "1.2.0",
+    "last_updated": "2024-03-14",
+    "usage_count": 128,
+    "slug": "unit-test-gen"
+  }
+]
