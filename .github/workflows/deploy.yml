@@ -18,7 +18,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 20 # Ensure Node.js version is compatible with Vite/dependencies
+          node-version: 24 # Use Node.js 24 as requested
 
       - name: Install Dependencies
         run: npm install
